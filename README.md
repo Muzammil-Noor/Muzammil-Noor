@@ -3,10 +3,12 @@
 <h1 align="center">Yeah, I'm Chaotic</h1>
 <h3 align="center">A full stack web developer, among other things</h3>
 
-<p align="center" style="background: rede; display: flex; align-items: center; justify-content: space-arund; gap: 20px">
+<p align="center" style="background: rede; display: flex; align-items: center; justify-content: space-arund; gap: 60px">
   <span style="background: greene; flex-grow: 1"></span>
   <a href="https://www.linkedin.com/in/muzammil-noor/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&color=1B8AD6"/></a>
+  <span style="background: green; margin: 0px 25px"></span>
   <a href="https://chaotiz.vercel.app" alt="Portfolio" title="Portfolio"><img width="32px" src="https://readmecodegen.vercel.app/api/social-icon?name=user&color=9D00D4"/></a>
+  <span style="background: green; margin: 0px 25px"></span>
   <a href="mailto:muzammilnoor897@gmail.com" alt="Email" title="Email"><img width="32px" src="https://readmecodegen.vercel.app/api/social-icon?name=gmail&color=CC1215"/></a>
   <span style="background: greene; flex-grow: 1"></span>
 </p>
