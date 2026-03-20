@@ -1,17 +1,25 @@
+<div align="center">
+
 <h1 align="center">Yeah, I'm Chaotic</h1>
 <h3 align="center">A full stack web developer, among other things</h3>
-<h3 align="center"><a href="https://chaotiz.vercel.app" target="_blank">My Portfolio</a></h3>
 
----
+<p align="center" style="background: rede; display: flex; align-items: center; justify-content: space-arund; gap: 20px">
+  <span style="background: greene; flex-grow: 1"></span>
+  <a href="https://www.linkedin.com/in/muzammil-noor/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&color=1B8AD6"/></a>
+  <a href="https://chaotiz.vercel.app" alt="Portfolio" title="Portfolio"><img width="32px" src="https://readmecodegen.vercel.app/api/social-icon?name=user&color=9D00D4"/></a>
+  <a href="mailto:muzammilnoor897@gmail.com" alt="Email" title="Email"><img width="32px" src="https://readmecodegen.vercel.app/api/social-icon?name=gmail&color=CC1215"/></a>
+  <span style="background: greene; flex-grow: 1"></span>
+</p>
+<br/>
 
-### Languages and Tools
+</div>
 
-
+## Tools and Languages
 
 <div align="center">
 
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-7f2bd4?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -28,32 +36,18 @@
 
 </div>
 
----
-
-### GitHub Stats
-
-<p align="center">
-  
-  <br>
-  
-  <br>
-  
-</p>
+##
 
 <div style="display: flex; flex-direction: column; gap: 20px">
-    <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Volburaal&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Volburaal&show_icons=true&theme=dark" alt="GitHub Stats"/>
+
+  </div>
+  <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Volburaal&theme=dark" alt="GitHub Streak">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Volburaal&layout=compact&theme=dark" alt="Top Languages"/>
-    </div>
-    <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Volburaal&theme=dark" alt="GitHub Streak"/>
-    </div>
+  </div>
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Volburaal&bg_color=0d1117&color=1F9FF7&line=1F9FF7&point=ffffff&hide_border=true"/>
+  </div>
 </div>
-
----
-
-### GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Volburaal&theme=darkhub&margin-w=15"/>
-</p>
