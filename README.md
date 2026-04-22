@@ -42,14 +42,14 @@
 
 <div style="display: flex; flex-direction: column; gap: 20px">
   <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Volburaal&show_icons=true&theme=dark" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Muzammil-Noor&show_icons=true&theme=dark" alt="GitHub Stats"/>
 
   </div>
   <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Volburaal&theme=dark" alt="GitHub Streak">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Volburaal&layout=compact&theme=dark" alt="Top Languages"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Muzammil-Noor&theme=dark" alt="GitHub Streak">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muzammil-Noor&layout=compact&theme=dark" alt="Top Languages"/>
   </div>
   <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Volburaal&bg_color=0d1117&color=1F9FF7&line=1F9FF7&point=ffffff&hide_border=true"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muzammil-Noor&bg_color=0d1117&color=1F9FF7&line=1F9FF7&point=ffffff&hide_border=true"/>
   </div>
 </div>
