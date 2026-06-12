@@ -3,16 +3,11 @@
 <h1 align="center">Yeah, I'm Chaotic</h1>
 <h3 align="center">A full stack web developer, among other things</h3>
 
-<p align="center" style="background: rede; display: flex; align-items: center; justify-content: space-arund; gap: 60px">
-  <span style="background: greene; flex-grow: 1"></span>
-  <a href="https://www.linkedin.com/in/muzammil-noor/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&color=1B8AD6"/></a>
-  <span style="background: green; margin: 0px 25px"></span>
-  <a href="https://chaotiz.vercel.app" alt="Portfolio" title="Portfolio"><img width="32px" src="https://readmecodegen.vercel.app/api/social-icon?name=user&color=9D00D4"/></a>
-  <span style="background: green; margin: 0px 25px"></span>
-  <a href="mailto:muzammilnoor897@gmail.com" alt="Email" title="Email"><img width="32px" src="https://readmecodegen.vercel.app/api/social-icon?name=gmail&color=CC1215"/></a>
-  <span style="background: greene; flex-grow: 1"></span>
-</p>
 <br/>
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muzammil-noor) &nbsp;
+[![Portfolio](https://readmecodegen.vercel.app/api/social-icon?name=user&color=9D00D4)](https://chaotiz.vercel.app) &nbsp;
+[![Email](https://readmecodegen.vercel.app/api/social-icon?name=gmail&color=CC1215)](mailto:mailto:muzammilnoor897@gmail.com)
 
 </div>
 
@@ -41,15 +36,14 @@
 ##
 
 <div style="display: flex; flex-direction: column; gap: 20px">
-  <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Muzammil-Noor&show_icons=true&theme=dark" alt="GitHub Stats"/>
-
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muzammil-Noor&bg_color=0d1117&color=1F9FF7&line=1F9FF7&point=ffffff&hide_border=true"/>
   </div>
   <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Muzammil-Noor&theme=dark" alt="GitHub Streak">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muzammil-Noor&layout=compact&theme=dark" alt="Top Languages"/>
   </div>
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muzammil-Noor&bg_color=0d1117&color=1F9FF7&line=1F9FF7&point=ffffff&hide_border=true"/>
+  <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Muzammil-Noor&show_icons=true&theme=dark" alt="GitHub Stats"/>
   </div>
 </div>
