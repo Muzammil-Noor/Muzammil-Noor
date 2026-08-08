@@ -32,3 +32,6 @@
   ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muzammil-Noor&bg_color=0d1117&color=1F9FF7&line=1F9FF7&point=ffffff&hide_border=true"/>
+</div>
