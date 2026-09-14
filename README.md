@@ -35,3 +35,6 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muzammil-Noor&bg_color=0d1117&color=1F9FF7&line=1F9FF7&point=ffffff&hide_border=true"/>
 </div>
+<div align="center">
+  <img src="https://github-pulse-topaz.vercel.app/u/Muzammil-Noor?theme=mono&size=wide&bg=000000&color=129bc4&scanlines=1"/>
+</div>
