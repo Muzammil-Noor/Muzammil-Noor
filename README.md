@@ -38,3 +38,6 @@
 <div align="center">
   <img src="https://github-pulse-topaz.vercel.app/u/Muzammil-Noor?theme=mono&size=wide&bg=000000&color=129bc4&scanlines=1"/>
 </div>
+<div align="center">
+  <img src="https://github-pulse-topaz.vercel.app/report/Muzammil-Noor?theme=phosphor&color=1fd1b3&w=full"/>
+</div>
