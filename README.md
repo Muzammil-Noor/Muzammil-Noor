@@ -39,5 +39,5 @@
   <img src="https://github-pulse-topaz.vercel.app/u/Muzammil-Noor?theme=mono&size=wide&bg=00000000&color=129bc4"/>
 </div>
 <div align="center">
-  <img src="https://github-pulse-topaz.vercel.app/report/Muzammil-Noor?theme=phosphor&color=808080&w=full&bg=129bc4"/>
+  <img src="https://github-pulse-topaz.vercel.app/report/Muzammil-Noor?theme=phosphor&color=129bc4&w=full&bg=00000000"/>
 </div>
