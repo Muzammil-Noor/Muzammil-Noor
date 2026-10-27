@@ -36,8 +36,8 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muzammil-Noor&bg_color=0d1117&color=1F9FF7&line=1F9FF7&point=ffffff&hide_border=true"/>
 </div>
 <div align="center">
-  <img src="https://github-pulse-topaz.vercel.app/u/Muzammil-Noor?theme=mono&size=wide&bg=00000000&color=129bc4"/>
+  <img src="https://github-pulse-topaz.vercel.app/u/Muzammil-Noor?theme=mono&size=wide&bg=00000000&color=808080"/>
 </div>
 <div align="center">
-  <img src="https://github-pulse-topaz.vercel.app/report/Muzammil-Noor?theme=phosphor&color=129bc4&w=full&bg=00000000"/>
+  <img src="https://github-pulse-topaz.vercel.app/report/Muzammil-Noor?theme=phosphor&color=808080&w=full&bg=00000000"/>
 </div>
